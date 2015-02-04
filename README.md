@@ -1,6 +1,6 @@
-# zitCraft Server Issue Tracker
+# zitCraft Server & ModPack Issue Tracker
 
-This GitHub repo is an **issue tracker** for the **zitCraft** Server & ModPack.
+This GitHub repo is an **Issue Tracker** and **Wiki** for the **zitCraft** Server & ModPack.
 
 # Issues on the server, or with your client?
 
@@ -32,6 +32,6 @@ Check our "Issues" here: https://github.com/warezit/zitCraft/issues
 
 Visit the zitCraft website here: http://steamtrade.me/projects/zc/zitcraft
 
-# Unofficial ModSauce Wiki Index
+# Official zitCraft Wiki
 
 Need help with the mods in this modpack? https://github.com/warezit/zitCraft/wiki
