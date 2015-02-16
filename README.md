@@ -4,9 +4,11 @@ This GitHub repo is an **Issue Tracker** and **Wiki** for the **zitCraft** Serve
 
 # Issues on the server, or with your client?
 
-Check our OPEN "Issues" here: https://github.com/warezit/zitCraft/issues
+Check our OPEN Issues here: https://github.com/warezit/zitCraft/issues
 
-Check our CLOSED "Issues" here: https://github.com/warezit/zitCraft/issues?q=is%3Aissue+is%3Aclosed
+Check our CLOSED Issues here: https://github.com/warezit/zitCraft/issues?q=is%3Aissue+is%3Aclosed
+
+Check ALL our Issues here: https://github.com/warezit/zitCraft/issues?q=
 
 *Do NOT use pastebin, your log file will be too large; they restrict file size for free users. Use Gist instead, follow the directions below.*
 
