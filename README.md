@@ -8,10 +8,9 @@ Check our OPEN "Issues" here: https://github.com/warezit/zitCraft/issues
 
 Check our CLOSED "Issues" here: https://github.com/warezit/zitCraft/issues?q=is%3Aissue+is%3Aclosed
 
-*Do NOT use pastebin, your log file will be too large; they restrict file size for free users*
+*Do NOT use pastebin, your log file will be too large; they restrict file size for free users. Use Gist instead, follow the directions below.*
 
-*PLEASE Include screenshots of your issue whenever possible!*
-*Hit ALT+PRTSCR to capture the active window, then CTRL+V to paste the screenshot with your issue!*
+*PLEASE Include screenshots of your issue whenever possible! Hit ALT+PRTSCR to capture the active window, then CTRL+V to paste the screenshot with your issue!*
 
 **If you still need help and you don't see your issue listed anywhere, start a new issue following these steps:**
 
