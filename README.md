@@ -4,14 +4,16 @@ This GitHub repo is an **Issue Tracker** and **Wiki** for the **zitCraft** Serve
 
 # Issues on the server, or with your client?
 
-Check our "Issues" here: https://github.com/warezit/zitCraft/issues
+Check our OPEN "Issues" here: https://github.com/warezit/zitCraft/issues
 
-**If you still need help and you don't see your issue listed anywhere, start a new issue following these steps:**
+Check our CLOSED "Issues" here: https://github.com/warezit/zitCraft/issues?q=is%3Aissue+is%3Aclosed
 
 *Do NOT use pastebin, your log file will be too large; they restrict file size for free users*
 
 *PLEASE Include screenshots of your issue whenever possible!*
 *Hit ALT+PRTSCR to capture the active window, then CTRL+V to paste the screenshot with your issue!*
+
+**If you still need help and you don't see your issue listed anywhere, start a new issue following these steps:**
 
 1. Open your Technic Launcher
 2. Click "Launcher Options" in the upper-right-hand corner
