@@ -10,6 +10,9 @@ Check our "Issues" here: https://github.com/warezit/zitCraft/issues
 
 *Do NOT use pastebin, your log file will be too large; they restrict file size for free users*
 
+*PLEASE Include screenshots of your issue whenever possible!*
+*Hit ALT+PRTSCR to capture the active window, then CTRL+V to paste the screenshot with your issue!*
+
 1. Open your Technic Launcher
 2. Click "Launcher Options" in the upper-right-hand corner
 3. Click "Open Logs" in the lower-left-hand corner
